@@ -1,0 +1,28 @@
+name: 40Breaths
+favicon: null
+layout_spectrum: 0.26642811112105846
+typography_spectrum: 0.5548151186667383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.28985460940748453
+  lightness: 0.9804257466457784
+  saturation: 0.1059565912000835
+  rhythmicContrast: 0.39990157168358564
+purpose: []
